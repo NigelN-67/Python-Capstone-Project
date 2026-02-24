@@ -4,7 +4,7 @@
 
 This project is a full-stack Python retail and financial service system designed to simulate real-world business operations such as transaction processing, customer management, inventory tracking, and financial record handling.
 
-The system integrates multiple core computer science and software engineering concepts including data processing, automation, API interaction, object-oriented design, and database management. It demonstrates how Python can be used to build scalable solutions for retail and financial environments.
+The system integrates multiple core computer science and software engineering concepts including data processing, automation, API interaction, object-oriented design, and database management; demonstrating how Python can be used to build scalable solutions for retail and financial environments.
 
 The goal of this project is to design a practical, efficient, and secure service platform that models how modern retail and financial systems operate.
 
@@ -21,7 +21,7 @@ Retail and financial service providers rely heavily on automated systems to mana
 * External service integration
 * Data validation and error handling
 
-The project was developed as a capstone to apply programming concepts to a real-world business use case.
+The project was developed as a capstone to apply Python programming concepts learnt as part of the course to a real-world business use case.
 
 ---
 
@@ -94,5 +94,4 @@ Through this project, the following skills were demonstrated:
 ---
 
 ## Author
-
-Capstone project developed as part of Python software development training.
+Nigel Mirambo
