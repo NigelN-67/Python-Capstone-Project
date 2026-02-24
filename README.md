@@ -94,4 +94,6 @@ Through this project, the following skills were demonstrated:
 ---
 
 ## Author
-Nigel Mirambo
+
+Nigel Mirambo,
+Data Science Core FT 26L.
