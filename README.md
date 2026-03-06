@@ -4,7 +4,7 @@
 
 This project is a full-stack Python retail and financial service system designed to simulate real-world business operations such as transaction processing, customer management, inventory tracking, and financial record handling.
 
-The system integrates multiple core computer science and software engineering concepts including data processing, automation, API interaction, object-oriented design, and database management; demonstrating how Python can be used to build scalable solutions for retail and financial environments.
+The system integrates multiple core computer science and software engineering concepts including data processing, automation, object-oriented design, and database management; demonstrating how Python can be used to build scalable solutions for retail and financial environments.
 
 The goal of this project is to design a practical, efficient, and secure service platform that models how modern retail and financial systems operate.
 
@@ -36,9 +36,8 @@ The system design is based on extensive study of modern software development pra
 * **Object-Oriented Programming (OOP)** for modular and scalable architecture
 * **Advanced OOP principles** such as encapsulation and abstraction
 * **Database integration** for structured financial records
-* **APIs and web services** for external data interaction
 * **Regular expressions** for data validation and processing
-* **Web scraping techniques** for automated data collection
+
 
 The project architecture follows modular design principles to improve maintainability, scalability, and performance.
 
@@ -51,7 +50,6 @@ The project architecture follows modular design principles to improve maintainab
 * Financial record tracking
 * Data validation and error handling
 * Persistent data storage using files or databases
-* External API integration
 * Modular object-oriented design
 * Automated data processing
 
@@ -64,7 +62,6 @@ The system follows a modular architecture consisting of:
 * **User Module** — manages customer accounts and authentication
 * **Transaction Module** — handles purchases and financial operations
 * **Data Management Module** — handles storage and retrieval
-* **Service Integration Module** — interacts with external APIs or services
 
 This structure promotes separation of concerns and system scalability.
 
@@ -77,7 +74,6 @@ Through this project, the following skills were demonstrated:
 * Software system design and architecture
 * Object-oriented programming implementation
 * Data management and persistence
-* API and web service integration
 * Data validation and processing
 * Problem solving using Python
 
